@@ -1,0 +1,50 @@
+﻿  Base.cpp
+C:\Users\Asus\source\repos\Drift Art Offline\Base.cpp(84,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Asus\source\repos\Drift Art Offline\Base.cpp(89,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Asus\source\repos\Drift Art Offline\Base.cpp(89,36): warning C4244:         with
+C:\Users\Asus\source\repos\Drift Art Offline\Base.cpp(89,36): warning C4244:         [
+C:\Users\Asus\source\repos\Drift Art Offline\Base.cpp(89,36): warning C4244:             T=float
+C:\Users\Asus\source\repos\Drift Art Offline\Base.cpp(89,36): warning C4244:         ]
+C:\Users\Asus\source\repos\Drift Art Offline\Base.cpp(89,32): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Asus\source\repos\Drift Art Offline\Base.cpp(89,32): warning C4244:         with
+C:\Users\Asus\source\repos\Drift Art Offline\Base.cpp(89,32): warning C4244:         [
+C:\Users\Asus\source\repos\Drift Art Offline\Base.cpp(89,32): warning C4244:             T=float
+C:\Users\Asus\source\repos\Drift Art Offline\Base.cpp(89,32): warning C4244:         ]
+C:\Users\Asus\source\repos\Drift Art Offline\Base.cpp(165,9): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Asus\source\repos\Drift Art Offline\Base.cpp(169,9): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Asus\source\repos\Drift Art Offline\Base.cpp(202,25): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  Buff.cpp
+  Game.cpp
+C:\Users\Asus\source\repos\Drift Art Offline\Base.cpp(203,20): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Asus\source\repos\Drift Art Offline\Game.cpp(105,52): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Users\Asus\source\repos\Drift Art Offline\Game.cpp(105,52): warning C4305:         with
+C:\Users\Asus\source\repos\Drift Art Offline\Game.cpp(105,52): warning C4305:         [
+C:\Users\Asus\source\repos\Drift Art Offline\Game.cpp(105,52): warning C4305:             T=float
+C:\Users\Asus\source\repos\Drift Art Offline\Game.cpp(105,52): warning C4305:         ]
+C:\Users\Asus\source\repos\Drift Art Offline\Game.cpp(105,106): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Users\Asus\source\repos\Drift Art Offline\Game.cpp(105,106): warning C4305:         with
+C:\Users\Asus\source\repos\Drift Art Offline\Game.cpp(105,106): warning C4305:         [
+C:\Users\Asus\source\repos\Drift Art Offline\Game.cpp(105,106): warning C4305:             T=float
+C:\Users\Asus\source\repos\Drift Art Offline\Game.cpp(105,106): warning C4305:         ]
+C:\Users\Asus\source\repos\Drift Art Offline\Game.cpp(105,160): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Users\Asus\source\repos\Drift Art Offline\Game.cpp(105,160): warning C4305:         with
+C:\Users\Asus\source\repos\Drift Art Offline\Game.cpp(105,160): warning C4305:         [
+C:\Users\Asus\source\repos\Drift Art Offline\Game.cpp(105,160): warning C4305:             T=float
+C:\Users\Asus\source\repos\Drift Art Offline\Game.cpp(105,160): warning C4305:         ]
+C:\Users\Asus\source\repos\Drift Art Offline\Game.cpp(123,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Asus\source\repos\Drift Art Offline\Game.cpp(145,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Asus\source\repos\Drift Art Offline\Game.cpp(318,17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Asus\source\repos\Drift Art Offline\Game.cpp(322,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Asus\source\repos\Drift Art Offline\Game.cpp(326,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Asus\source\repos\Drift Art Offline\Game.cpp(330,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Main.cpp
+C:\Users\Asus\source\repos\Drift Art Offline\Game.cpp(357,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Asus\source\repos\Drift Art Offline\Main.cpp(14,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Asus\source\repos\Drift Art Offline\Main.cpp(15,49): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  mainMenu.cpp
+  obstacle.cpp
+C:\Users\Asus\source\repos\Drift Art Offline\Main.cpp(15,40): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Asus\source\repos\Drift Art Offline\obstacle.cpp(29,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+C:\Users\Asus\source\repos\Drift Art Offline\obstacle.cpp(31,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Drift Art Offline.vcxproj -> C:\Users\Asus\source\repos\Drift Art Offline\Debug\Drift Art Offline.exe
